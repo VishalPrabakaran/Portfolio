@@ -373,7 +373,7 @@ nav .fa-solid{
         background-image: url(images/black.png);
     }
     .header-text {
-        margin-top: 90%;
+        margin-top: 60%;
         font-size: 20px;
     }
     .header-text h1 {
@@ -390,8 +390,8 @@ nav .fa-solid{
         background: #6a2222;
         position: fixed;
         top: 0;
-        right: -300px;
-        width: 200px;
+        right: -250px;
+        width: 250px;
         height: 100vh;
         padding-top: 50px;
         z-index: 2;
@@ -473,4 +473,5 @@ nav .fa-solid{
     color: #56a856;
     margin-top:-40px;
     display:block;
+
 }
